@@ -1,7 +1,7 @@
 #!/usr/bin/ env python3
 
-# Created By Rodas Nega
-# Created On December 12 2020
+# Created By Peter
+# Created On January 5th 2020
 # This program will calculate the circumference and area of a circle from given inputs 
 
 import math
